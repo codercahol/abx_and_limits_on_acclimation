@@ -1,0 +1,16 @@
+name = "ProteinLimitsOnAcclimation_ABX"
+uuid = "381e452a-86b5-4264-b84b-f94ed5610f9d"
+authors = ["lp-ubu <5104722+codercahol@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Pluto = "0.20.13"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
