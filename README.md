@@ -1,4 +1,7 @@
-# Instructions for Reproducing Simulations and Code
+# Online Supplement to "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments"
+Code, data, and figures accompanying "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments" by Leron Perez and Jonas Cremer
+
+## Instructions for Reproducing Simulations and Code
 
 1. Install [Julia](https://julialang.org/downloads/) (I used Julia 1.11.3) and the [Pluto package](https://github.com/fonsp/Pluto.jl)
 2. Download the supporting libraries
@@ -9,7 +12,5 @@
 \* - the RNA\_over\_Protein_analysis code is only used for a single figure in the supplementary
 
 	
-	
-	
-### License Info
+## License Info
 License is [CC BY-ND-NC 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) 
