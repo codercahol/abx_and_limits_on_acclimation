@@ -1,4 +1,7 @@
 # Online Supplement to "A mismatch between slow protein synthesis and fast environmental fluctuations determines tradeoffs in bacterial proteome allocation strategies"
+
+[![DOI](https://zenodo.org/badge/1021741429.svg)](https://doi.org/10.5281/zenodo.16335367)
+
 Code, data, and figures accompanying "A mismatch between slow protein synthesis and fast environmental fluctuations determines tradeoffs in bacterial proteome allocation strategies" by Leron Perez and Jonas Cremer
 
 ## Instructions for Reproducing Simulations and Code
