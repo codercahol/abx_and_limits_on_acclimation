@@ -1,4 +1,4 @@
-# Online Supplement to "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments"
+# Online Supplement to "A mismatch between slow protein synthesis and fast environmental fluctuations determines tradeoffs in bacterial proteome allocation strategies"
 Code, data, and figures accompanying "A mismatch between slow protein synthesis and fast environmental fluctuations determines tradeoffs in bacterial proteome allocation strategies" by Leron Perez and Jonas Cremer
 
 ## Instructions for Reproducing Simulations and Code
