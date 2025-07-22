@@ -1,11 +1,11 @@
 # Online Supplement to "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments"
-Code, data, and figures accompanying "Limiting translational capacity with antibiotics reveals the tradeoffs of microbial acclimation to fluctuating environments" by Leron Perez and Jonas Cremer
+Code, data, and figures accompanying "A mismatch between slow protein synthesis and fast environmental fluctuations determines tradeoffs in bacterial proteome allocation strategies" by Leron Perez and Jonas Cremer
 
 ## Instructions for Reproducing Simulations and Code
 
 1. Install [Julia](https://julialang.org/downloads/) (the simulations for the paper used Julia 1.11.3) and the [Pluto package](https://github.com/fonsp/Pluto.jl)
 2. Download the supporting libraries
-	- clone the [growth simulation (AbxGrowthSims)](https://github.com/codercahol/AbxGrowthSims/tree/main) and [data analysis (RNA_over\_Protein\_analysis)](https://github.com/codercahol/RNA_over_Protein_analysis)* repositories to your computer
+	- clone the [growth simulation (AbxGrowthSims)](https://github.com/codercahol/AbxGrowthSims) and [data analysis (RNA_over\_Protein\_analysis)](https://github.com/codercahol/RNA_over_Protein_analysis)* repositories to your computer
 3. Follow the instructions in the pluto notebooks and have fun!
 
 
